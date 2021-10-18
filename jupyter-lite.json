@@ -1,9 +1,10 @@
 {
   "jupyter-config-data": {
-    "appName": "JupyterLite",
+    "appName": "Candyce",
     "appUrl": "./lab",
     "appVersion": "0.1.0-alpha.14",
     "baseUrl": "./",
+    "collaborative": true,
     "faviconUrl": "./lab/favicon.ico",
     "federated_extensions": [
       {
@@ -28,22 +29,9 @@
       },
       {
         "extension": "./extension",
-        "liteExtension": true,
-        "load": "static/remoteEntry.4ba93726087006d2f61b.js",
-        "name": "@jupyterlite/p5-kernel-extension",
-        "style": "./style"
-      },
-      {
-        "extension": "./extension",
         "liteExtension": false,
         "load": "static/remoteEntry.bf6b3192a558615425cd.js",
         "name": "@telamonian/theme-darcula"
-      },
-      {
-        "extension": "./extension",
-        "liteExtension": false,
-        "load": "static/remoteEntry.145e469029155b53b350.js",
-        "name": "@timkpaine/jupyterlab_miami_nights"
       },
       {
         "extension": "./extension",
@@ -82,6 +70,11 @@
     "fullMathjaxUrl": "https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js",
     "fullStaticUrl": "./lab/build",
     "mathjaxConfig": "TeX-AMS_CHTML-full,Safe",
+    "settingsOverrides": {
+      "@jupyterlab/translation-extension:plugin": {
+        "locale": "fr_FR"
+      }
+    },
     "settingsUrl": "./lab/build/schemas",
     "themesUrl": "./lab/build/themes"
   },
