@@ -2,9 +2,9 @@
   "content": [
     {
       "content": null,
-      "created": "2021-10-18T13:18:55.568508Z",
+      "created": "2021-10-18T13:27:31.679169Z",
       "format": null,
-      "last_modified": "2021-10-18T13:18:09.080886Z",
+      "last_modified": "2021-10-18T13:26:41.887817Z",
       "mimetype": null,
       "name": "javascript.ipynb",
       "path": "javascript.ipynb",
@@ -14,21 +14,21 @@
     },
     {
       "content": null,
-      "created": "2021-10-18T13:18:55.568508Z",
+      "created": "2021-10-18T13:27:31.679169Z",
       "format": null,
-      "last_modified": "2021-10-18T13:18:53.948395Z",
+      "last_modified": "2021-10-18T13:27:29.931205Z",
       "mimetype": "text/markdown",
       "name": "README.md",
       "path": "README.md",
-      "size": 970,
+      "size": 960,
       "type": "file",
       "writable": true
     },
     {
       "content": null,
-      "created": "2021-10-18T13:18:55.568508Z",
+      "created": "2021-10-18T13:27:31.679169Z",
       "format": null,
-      "last_modified": "2021-10-18T13:18:09.080886Z",
+      "last_modified": "2021-10-18T13:26:41.887817Z",
       "mimetype": null,
       "name": "pyolite.ipynb",
       "path": "pyolite.ipynb",
@@ -37,9 +37,9 @@
       "writable": true
     }
   ],
-  "created": "2021-10-18T13:18:55.568508Z",
+  "created": "2021-10-18T13:27:31.679169Z",
   "format": "json",
-  "last_modified": "2021-10-18T13:18:55.568508Z",
+  "last_modified": "2021-10-18T13:27:31.679169Z",
   "mimetype": null,
   "name": "",
   "path": "",

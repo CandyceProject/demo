@@ -4,7 +4,7 @@ JupyterLite est une distribution de JupyterLab qui tourne entièrement dans le n
 
 ![demo-github-pages](https://user-images.githubusercontent.com/591645/137738767-653ec21b-e8de-4263-a343-c5da2419cdd7.gif)
 
-### Vous pouvez lancer JupyterLite depuis ce document  ✨
+## ✨ Lancer JupyterLite dans le navigateur ✨
 
 | [Essayer avec JupyterLab !] | [Essayer avec RetroLab !] |
 | :-------------------------: | :-----------------------: |
