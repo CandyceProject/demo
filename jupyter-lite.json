@@ -2,7 +2,7 @@
   "jupyter-config-data": {
     "appName": "Candyce",
     "appUrl": "./lab",
-    "appVersion": "0.1.0-alpha.14",
+    "appVersion": "0.1.0-alpha.16",
     "baseUrl": "./",
     "collaborative": true,
     "faviconUrl": "./lab/favicon.ico",
@@ -49,7 +49,7 @@
       {
         "extension": "./extension",
         "liteExtension": false,
-        "load": "static/remoteEntry.5459894d80c1201f22ae.js",
+        "load": "static/remoteEntry.51b89f201a0af1cc6ef5.js",
         "name": "ipycanvas"
       },
       {
