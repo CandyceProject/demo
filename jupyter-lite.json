@@ -2,7 +2,7 @@
   "jupyter-config-data": {
     "appName": "Candyce",
     "appUrl": "./lab",
-    "appVersion": "0.1.0-alpha.16",
+    "appVersion": "0.1.0-alpha.18",
     "baseUrl": "./",
     "collaborative": true,
     "faviconUrl": "./lab/favicon.ico",
@@ -30,7 +30,7 @@
       {
         "extension": "./extension",
         "liteExtension": true,
-        "load": "static/remoteEntry.0c69e5703596ff1c3cba.js",
+        "load": "static/remoteEntry.8326538f2f0a7c1ebd2d.js",
         "name": "@jupyterlite/xeus-lua-kernel",
         "style": "./style"
       },
@@ -49,13 +49,13 @@
       {
         "extension": "./extension",
         "liteExtension": false,
-        "load": "static/remoteEntry.51b89f201a0af1cc6ef5.js",
+        "load": "static/remoteEntry.5ffed1c4b9b9ce1f7b00.js",
         "name": "ipycanvas"
       },
       {
         "extension": "./extension",
         "liteExtension": false,
-        "load": "static/remoteEntry.8c5efb3516d04e6a5bb7.js",
+        "load": "static/remoteEntry.8f5cefaa26fbae099326.js",
         "name": "jupyter-leaflet"
       },
       {
@@ -68,7 +68,7 @@
       {
         "extension": "./extension",
         "liteExtension": false,
-        "load": "static/remoteEntry.722ef6c4bed73383b578.js",
+        "load": "static/remoteEntry.1127d9a8a11e639c274b.js",
         "mimeExtension": "./mimeExtension",
         "name": "jupyterlab-plotly"
       }
