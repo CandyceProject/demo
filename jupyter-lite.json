@@ -2,7 +2,7 @@
   "jupyter-config-data": {
     "appName": "Candyce",
     "appUrl": "./lab",
-    "appVersion": "0.1.0-alpha.18",
+    "appVersion": "0.1.0-beta.3",
     "baseUrl": "./",
     "collaborative": true,
     "faviconUrl": "./lab/favicon.ico",
@@ -10,19 +10,19 @@
       {
         "extension": "./extension",
         "liteExtension": false,
-        "load": "static/remoteEntry.f6574b55a223d23e7a04.js",
+        "load": "static/remoteEntry.3421943a0ce73f10909d.js",
         "name": "@jupyter-widgets/jupyterlab-manager"
       },
       {
         "liteExtension": false,
-        "load": "static/remoteEntry.9c506278e545a18a8cc2.js",
+        "load": "static/remoteEntry.cdf08c015a8192358158.js",
         "mimeExtension": "./mimeExtension",
         "name": "@jupyterlab/fasta-extension",
         "style": "./style"
       },
       {
         "liteExtension": false,
-        "load": "static/remoteEntry.a6d92e11d5e8c375cfe6.js",
+        "load": "static/remoteEntry.b75c764d727b50009261.js",
         "mimeExtension": "./mimeExtension",
         "name": "@jupyterlab/geojson-extension",
         "style": "./style"
@@ -43,13 +43,13 @@
       {
         "extension": "./extension",
         "liteExtension": false,
-        "load": "static/remoteEntry.490fbd2bdf754b661d13.js",
+        "load": "static/remoteEntry.af71ba374fc8128e6506.js",
         "name": "bqplot"
       },
       {
         "extension": "./extension",
         "liteExtension": false,
-        "load": "static/remoteEntry.5ffed1c4b9b9ce1f7b00.js",
+        "load": "static/remoteEntry.d3f93277b65928cb96a9.js",
         "name": "ipycanvas"
       },
       {
@@ -68,22 +68,21 @@
       {
         "extension": "./extension",
         "liteExtension": false,
-        "load": "static/remoteEntry.1127d9a8a11e639c274b.js",
+        "load": "static/remoteEntry.f372bf1de02fb50ae6e0.js",
         "mimeExtension": "./mimeExtension",
         "name": "jupyterlab-plotly"
       }
     ],
-    "fullLabextensionsUrl": "./lab/extensions",
+    "fullLabextensionsUrl": "./extensions",
     "fullMathjaxUrl": "https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js",
-    "fullStaticUrl": "./lab/build",
+    "fullStaticUrl": "./build",
+    "licensesUrl": "./lab/api/licenses",
     "mathjaxConfig": "TeX-AMS_CHTML-full,Safe",
     "settingsOverrides": {
       "@jupyterlab/translation-extension:plugin": {
         "locale": "fr_FR"
       }
-    },
-    "settingsUrl": "./lab/build/schemas",
-    "themesUrl": "./lab/build/themes"
+    }
   },
   "jupyter-lite-schema-version": 0
 }
