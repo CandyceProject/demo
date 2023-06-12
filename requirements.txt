@@ -1,13 +1,14 @@
 bqplot
 ipycanvas
 ipyleaflet
-ipywidgets>=7.6
-jupyterlab~=3.2
+ipywidgets>=8,<9
+jupyterlab~=3.5.3
 jupyterlab-drawio
 jupyterlab-language-pack-fr-FR
 jupyterlab-fasta>=3,<4
 jupyterlab-geojson>=3,<4
-jupyterlite==0.1.0b3
+jupyterlite-core==0.1.0
 jupyterlite-xeus-lua==0.2
+jupyterlite-pyodide-kernel==0.0.8
 plotly>=5,<6
 theme-darcula
